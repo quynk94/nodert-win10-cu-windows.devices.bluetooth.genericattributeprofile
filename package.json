@@ -60,8 +60,8 @@
     "WinRT",
     "Microsoft"
   ],
-  "dependencies" : {
-    "nan" : "latest"
+  "dependencies": {
+    "nan": "latest"
   },
   "repository": {
     "type": "git",
